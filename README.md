@@ -1,6 +1,6 @@
 ## 1. 什么是Free-Proxy?
 
-Free-Proxy是一个开源代理IP获取库，它使用http的方式从指定网站获取代理IP。
+Free-Proxy是一个开源代理IP获取库，它使用http获取代理IP。
 
 ##  
 
@@ -14,7 +14,7 @@ Free-Proxy是一个开源代理IP获取库，它使用http的方式从指定网�
 
 ###  
 
-### 2.2 使用简单
+### 2.2 使用便捷
 
 Free-Proxy的API十分简洁。
 
